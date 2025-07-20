@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi there, I'm Nitish Sharma
 
-<!--
-**nitish-dev-1503/nitish-dev-1503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer  
+Passionate about designing scalable systems, writing clean code, and helping teams grow. I believe in the power of **"Create, Learn, and Share."**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## About Me
+
+- I’m currently working as a **Software Engineer III at JPMorganChase, India**, with **5+ years** of industry experience.
+- My professional expertise lies in **Java, Spring Boot, Kafka, React.js, MongoDB, Git, Docker, Kubernetes, and AWS**.
+- I enjoy solving real-world problems, improving system performance, and architecting robust solutions.
+- Beyond development, I have anchored teams, mentored peers, and collaborated across cross-functional groups, fostering a culture of continuous learning and innovation.
+- I write technical blogs to give back to the community – check out [my Medium](https://nitish1503.medium.com).
+
+
+## Design is my sidekick
+
+Besides coding, I love **illustration and logo design**. I occasionally help small businesses build their **brand identity** through visual storytelling.
+
+
+## Let’s Connect
+
+- Email: nitishsharma1503@gmail.com
+- Portfolio: [nitishsharma.dev](https://www.nitishsharma.dev/)
+- Medium: [nitish1503.medium.com](https://nitish1503.medium.com)
+- LinkedIn: [linkedin.com/in/nitish-sharma-ns](https://www.linkedin.com/in/nitish-sharma-ns/)
+
+
+
+_Thanks for visiting! Let’s learn and build something awesome together!_
