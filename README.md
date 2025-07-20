@@ -7,7 +7,7 @@ Passionate about designing scalable systems, writing clean code, and helping tea
 
 ## About Me
 
-- I’m currently working as a **Software Engineer III at JPMorganChase, India**, with **5+ years** of industry experience.
+- I've previously worked as a Senior Consultant - Application Developer with Thoughtworks Technologies India, and currently working as a **Software Engineer III at JPMorganChase, India**, with overall **5+ years** of industry experience. 
 - My professional expertise lies in **Java, Spring Boot, Kafka, React.js, MongoDB, Git, Docker, Kubernetes, and AWS**.
 - I enjoy solving real-world problems, improving system performance, and architecting robust solutions.
 - Beyond development, I have anchored teams, mentored peers, and collaborated across cross-functional groups, fostering a culture of continuous learning and innovation.
